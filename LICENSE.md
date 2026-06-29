@@ -1,4 +1,4 @@
-# 
+# VIP AI Handwriting Recognition herramientas. Con aprendizaje por refuerzo y ética de la IA — optimizado para el máximo rendimiento.
 
 
 
